@@ -9,13 +9,13 @@ It is used for communicating with BBM Devices, over serial port and contains var
 
 ## Hardware and Software Support
 This library is developed for MicroPython and designed to be used specifically for Raspberry Pi Pico
-
+<!---
 ## Installation
 This library can be installed from the Python Packaging Index by running the command:
 
     pip3 install micro-mates-controller
-
 ---
+--->
 
 ## Library Discussion
 
